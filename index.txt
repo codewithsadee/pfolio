@@ -1,0 +1,173 @@
+Kane Williams - Web & App Developer
+
+This is a personal portfolio html template made by codewithsadee
+
+
+
+#---------- HEADER ----------#
+
+alt = Pfolio home
+
+aria-label = Toggle menu
+
+Home
+Resume
+Services
+Portfolio
+Blog
+Contact
+
+
+
+#---------- HERO ----------#
+
+Kane Williams
+Creative Web & App Developer
+
+alt = kane williams
+
+Hi, I’m kane williams and I am creative web & app developer who dream making the world better place by creating captivating products.
+
+Download CV
+<ion-icon name="download-outline" aria-hidden="true"></ion-icon>
+
+
+
+#---------- SERVICE ----------#
+
+Services That I Provide
+
+Services
+
+Phasellus et lacus suscipit congue nisl the volutpat magna. donec miss the drana risus tincidunt convallis velit orci congue tortor eu dignissim ipsum suam non odio. Pellenta esuntion miss the imperdiet metus ornare.
+
+<ion-icon name="desktop-outline"></ion-icon>
+Website Design
+
+Website ravida surna eveti semen the conse tusio anivite dianne one nivam acestion vue artin dictum.
+
+01
+
+aria-label = More about my website design service
+
+<ion-icon name="podium-outline"></ion-icon>
+SEO Marketing
+02
+
+<ion-icon name="basket-outline"></ion-icon>
+eCommerce
+03
+
+<ion-icon name="color-filter-outline"></ion-icon>
+Graphic Design
+04
+
+<ion-icon name="megaphone-outline"></ion-icon>
+Digital Marketing
+05
+
+<ion-icon name="chatbubbles-outline"></ion-icon>
+Social Media
+06
+
+aria-label = Slide to previous item
+aria-label = Slide to next item
+
+
+
+#---------- SKILLS ----------#
+
+I Make The Future
+
+I Develop & Create Digital Future.
+
+Pellentesque magna magna semper dapibus felis necatin aliuen risus. Pellentesque habitant morbi senectus dictum.
+
+Web design magna magna semper dapibus felis necatin aliuen risus. Pellentesque habitant morbi tristique senectus the neuse malesuada nullam ac lorem miss the duru.
+
+info@kwilliams.com
+
+Design
+90%
+
+Branding
+80%
+
+Web Design
+95%
+
+Social Media
+85%
+
+
+
+#---------- PORTFOLIO ----------#
+
+Our Works
+
+Portfolio
+
+Phasellus et lacus suscipit congue nisl the volutpat magna. donec miss the drana risus tincidunt convallis velit orci congue tortor eu dignissim ipsum suam non odio. Pellenta esuntion miss the imperdiet metus ornare.
+
+alt = portfolio
+
+Lab. 001
+Website Design
+
+Aer Agency
+Website / Development
+
+Joker Card
+UX Design / Web App
+
+Peaky Blinders
+Website / UX Design
+
+Design Zoom
+Branding / Design
+
+Out Zone
+UX Design / Web App
+
+
+
+#---------- BLOG ----------#
+
+Recent Articles
+
+Latest News
+
+alt = Get Started With Tiktok Ads.
+
+24
+June 2022
+
+Get Started With Tiktok Ads.
+
+Phasellus et lacus suscipit congue nis in the miss mine one miss the drana risus in tincidunt ornare.
+
+Read more
+
+<ion-icon name="arrow-forward"></ion-icon>
+
+alt = UX in Ecommerce – 5 things to avoid.
+
+27
+June 2022
+
+UX in Ecommerce – 5 things to avoid.
+
+
+
+#---------- FOOTER ----------#
+
+Get in touch
+info@kwilliams.com
+
+Locations
+San Francisco — California
+
+<ion-icon name="logo-dribbble"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-skype"></ion-icon>
+<ion-icon name="logo-linkedin"></ion-icon>
